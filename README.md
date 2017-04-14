@@ -8,3 +8,7 @@ Requires 'requests' in Python.
 $ cd YOURPATH/HLTV-thing-master
 
 $ python hltv_thing/hltv_thing.py
+
+### Future Additions
+Query matches by date
+Query matches by lineup
