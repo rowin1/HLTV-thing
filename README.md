@@ -1,4 +1,6 @@
 # HLTV-thing
+*HLTV.org was recently overhauled; This application needs to be updated.*
+
 Command-line application that parses match-up stats between top ranking teams from HLTV.org. Currently displays wins and losses for specified team against specified opponent on specified map.
 
 
